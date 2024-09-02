@@ -8,3 +8,5 @@
 
 require("tuto/initialisation")
 require("tuto/maj_table")
+
+CHRONOMETRE = os.clock()
